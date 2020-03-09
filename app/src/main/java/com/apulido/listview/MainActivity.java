@@ -9,6 +9,11 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+/**
+ * Main activity class
+ *
+ * Aqui se realiza el despliegue de una lista de varios nombres donde nos muestra la edad de la persona mostrada
+ */
 public class MainActivity extends AppCompatActivity {
 
     public TextView textView;
